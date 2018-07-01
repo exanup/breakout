@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.canvas-wrapper {
+  display: inline-block;
+  background: #fff;
+  border: 10px solid lightsalmon;
+  border-radius: 15px;
+  margin-top: 10px;
+}
+
+canvas {
+  border: 1px solid lightcoral;
+  display: block;
+}
